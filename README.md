@@ -1,6 +1,9 @@
 # dappl
 
+https://t.me/dapplapp
+
 What is Dappl?
+----------------
 
 Dappl is a universal platform for uploading, purchasing, and listening to copyright exclusive content.
 Our mission is to make music realization and transfer of intellectual property rights effortless, as well as to enable subscribers to listen to original songs for free.
@@ -32,3 +35,14 @@ Our solutions:
 •Safe storage of funds
 
 •Full confidentiality
+
+What is PPLSWG?
+----------------
+
+Peoples World Group Oficial points
+
+License
+-------
+
+Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.

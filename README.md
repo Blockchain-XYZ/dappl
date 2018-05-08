@@ -40,6 +40,7 @@ What is PPLSWG?
 ----------------
 
 Peoples World Group Oficial points
+https://t.me/pplswg
 
 License
 -------
